@@ -1,0 +1,4 @@
+Replace Constructor with Factory Method
+
+You want to do more than simple construction when you create an object.
+=> Replace the constructor with a factory method.
