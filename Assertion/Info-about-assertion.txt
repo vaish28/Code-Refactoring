@@ -1,3 +1,4 @@
-## Introduce Assertion
-# A section of code assumes something about the state of the program.
-## => Make the assumption explicit with an assertion
+Introduce Assertion
+
+A section of code assumes something about the state of the program.
+=> Make the assumption explicit with an assertion
